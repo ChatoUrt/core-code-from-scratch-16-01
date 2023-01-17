@@ -70,7 +70,7 @@ function calculate(a, ops, b) {
         if (b == 0) return t = null
       break;
       default:
-        t = null;
+        null;
   }
   return t
 }
